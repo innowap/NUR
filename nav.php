@@ -37,7 +37,7 @@
                 <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
                 <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
                 <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
-                <li class="nav-item"><a href="admin/admin/index.php" class="nav-link">Admin</a></li>
+                <li class="nav-item"><a href="admin.php" class="nav-link">Admin</a></li>
 
             </ul>
         </div>

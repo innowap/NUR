@@ -3,49 +3,50 @@
         <div class="row no-gutters">
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-primary">
                 <div class="media block-6 d-block text-center">
-                    <div class="icon d-flex justify-content-center align-items-center">
-                        <span class="flaticon-teacher"></span>
-                    </div>
                     <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Certified Teachers</h3>
-                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-                            unorthographic.</p>
+                        <h3 class="heading">We’ve Got You Covered All Through Your Child’s Formative Years.</h3>
+                        <p>Every child deserves a quality and well-rounded education in their elementary years..</p>
+                        <div class=" d-flex justify-content-center align-items-center">
+                            <a href="#" class="btn btn-secondary">Read More...</a>
+                        </div>
+
                     </div>
                 </div>
             </div>
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-tertiary">
                 <div class="media block-6 d-block text-center">
-                    <div class="icon d-flex justify-content-center align-items-center">
-                        <span class="flaticon-reading"></span>
-                    </div>
                     <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Special Education</h3>
-                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-                            unorthographic.</p>
+                        <h3 class="heading">Why Choose An-Scholsr</h3>
+                        <p>Choosing the right school marks a new beginning in the life of your child. Taking one’s time
+                            to explore
+                            educational options is an important decision for any family or parent.</p>
+                        <div class=" d-flex justify-content-center align-items-center">
+                            <a href="#" class="btn btn-secondary">Read More...</a>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-fifth">
                 <div class="media block-6 d-block text-center">
-                    <div class="icon d-flex justify-content-center align-items-center">
-                        <span class="flaticon-books"></span>
-                    </div>
                     <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Book &amp; Library</h3>
-                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-                            unorthographic.</p>
+                        <h3 class="heading">Get Your Child A Great Head Start</h3>
+                        <p>Every child deserves a quality and well-rounded education in the formative years..</p>
+                        <div class=" d-flex justify-content-center align-items-center">
+                            <a href="#" class="btn btn-secondary">Read More...</a>
+                        </div>
+
                     </div>
                 </div>
             </div>
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-quarternary">
                 <div class="media block-6 d-block text-center">
-                    <div class="icon d-flex justify-content-center align-items-center">
-                        <span class="flaticon-diploma"></span>
-                    </div>
                     <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Certification</h3>
-                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-                            unorthographic.</p>
+                        <h3 class="heading">Our Future Leaders Desearve A Well-Round Education</h3>
+                        <p>Every child needs a quality and well-rounded education to become a responsible global
+                            citizen..</p>
+                        <div class=" d-flex justify-content-center align-items-center">
+                            <a href="#" class="btn btn-secondary">Read More...</a>
+                        </div>
                     </div>
                 </div>
             </div>
